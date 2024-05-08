@@ -5,20 +5,20 @@
       <div class="box">
          <img src="images/email-icon.png" alt="">
          <h3>our email</h3>
-         <a href="mailto:shaikhanas@gmail.com">shaikhanas@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com">anasbhai@gmail.com</a>
+         <a href="mailto:shaikhanas@gmail.com">lalitkumar@gmail.com</a>
+         <a href="mailto:anasbhai@gmail.com">deepakkumar@gmail.com</a>
       </div>
 
       <div class="box">
          <img src="images/clock-icon.png" alt="">
          <h3>opening hours</h3>
-         <p>00:07am to 00:10pm</p>
+         <p>07:00am to 10:00pm</p>
       </div>
 
       <div class="box">
          <img src="images/map-icon.png" alt="">
          <h3>our address</h3>
-         <a href="#">mumbai, india - 400104</a>
+         <a href="#">delhi, india - 110088</a>
       </div>
 
       <div class="box">
@@ -30,7 +30,7 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Food online</span> | all rights reserved!</div>
 
 </footer>
 
